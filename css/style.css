@@ -451,7 +451,7 @@ header {
   margin: auto;
   align-items: start;
   position: relative;
-  background-image: url('./img/sword-berserker.jpg');
+  background-image: url('https://wolfculttactical.github.io/wct.io/img/sword-berserker.jpg');
   background-size: cover;
   background-position: 33% 50%;
   width: 100%;
