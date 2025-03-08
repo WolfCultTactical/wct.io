@@ -438,7 +438,7 @@ header {
   justify-content: center;
   align-items: center;
   max-height: 140px;
-  background-image: url('img/sword-berserker.jpg');
+  background-image: url('../img/sword-berserker.jpg');
   width: 100%;
   height: 30vw;
 }
@@ -451,7 +451,7 @@ header {
   margin: auto;
   align-items: start;
   position: relative;
-  background-image: url('./img/sword-berserker.jpg');
+  background-image: url('../img/sword-berserker.jpg');
   background-size: cover;
   background-position: 33% 50%;
   width: 100%;
@@ -518,7 +518,7 @@ header {
   grid-column: 1 / -1;
   display: flex;
   align-items: end;
-  background-image: url('./img/wcttraining.png');
+  background-image: url('../img/wcttraining.png');
   background-size: cover;
   background-position: 50% 70%;
   width: 100%;
@@ -576,7 +576,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('./img/bg4.jpg');
+  background-image: url('../img/bg4.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   background-color: #000000;
