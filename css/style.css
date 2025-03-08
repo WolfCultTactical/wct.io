@@ -438,7 +438,7 @@ header {
   justify-content: center;
   align-items: center;
   max-height: 140px;
-  background-image: url('./img/sword-berserker.jpg');
+  background-image: url('img/sword-berserker.jpg');
   width: 100%;
   height: 30vw;
 }
