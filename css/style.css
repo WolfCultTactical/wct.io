@@ -389,7 +389,7 @@ header {
   width: 100%;
   display: block;
   height: 100vw;
-  background-image: url('./img/wctadv.JPG');
+  background-image: url('../img/Wctadv.JPG');
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #000000;
@@ -593,7 +593,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('./img/axe-berserker.jpg');
+  background-image: url('../img/axe-berserker.jpg');
   background-size: cover;
   width: 15vw;
   height: 15vw;
@@ -734,7 +734,7 @@ input:focus, textarea.focus {
 .img-container-end {
   grid-column: 1 / -1;
   align-items: center;
-  background-image: url('./img/ender.jpeg');
+  background-image: url('../img/ender.jpeg');
   background-size: cover;
   background-position: 50% 13%;
   width: 100%;
@@ -1053,7 +1053,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('./img/bg4.jpg');
+    background-image: url('../img/bg4.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-color: #000000;
@@ -1070,7 +1070,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('./img/axe-berserker.jpg');
+    background-image: url('../img/axe-berserker.jpg');
     background-size: cover;
     width: 20vw;
     height: 20vw;
