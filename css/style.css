@@ -390,7 +390,8 @@ header {
   display: block;
   height: 100vw;
   background-image: url('../img/Wctadv.JPG');
-  background-size: stretch;
+  background-size: 85%;
+  background-position: 50% 50%;
   background-repeat: no-repeat;
   background-color: #000000;
   border: 5px solid #f2f2f2;
