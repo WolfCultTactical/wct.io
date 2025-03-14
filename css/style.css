@@ -388,9 +388,9 @@ header {
   grid-column: 1 / -1;
   width: 100%;
   display: block;
-  height: 100vw;
+  height: 110vw;
   background-image: url('../img/Wctadv.JPG');
-  background-size: 82%;
+  background-size: 85%;
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-color: #000000;
